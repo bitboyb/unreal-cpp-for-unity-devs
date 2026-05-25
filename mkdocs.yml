@@ -1,6 +1,6 @@
 site_name: Unreal C++ for Unity Developers
 site_description: A practical transition guide for Unity developers learning Unreal Engine C++.
-repo_url: https://github.com/OWNER/REPO
+repo_url: https://github.com/bitboyb/unreal-cpp-for-unity-devs
 
 theme:
   name: material
