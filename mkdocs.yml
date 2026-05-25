@@ -1,0 +1,34 @@
+site_name: Unreal C++ for Unity Developers
+site_description: A practical transition guide for Unity developers learning Unreal Engine C++.
+repo_url: https://github.com/OWNER/REPO
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Unity to Unreal Overview: unity-to-unreal-overview.md
+  - Syntax and C++ Basics: syntax-and-cpp-basics.md
+  - Unreal Types and Containers: unreal-types-and-containers.md
+  - Macros and Reflection: unreal-macros-and-reflection.md
+  - Actors, Pawns and Characters: actors-pawns-and-characters.md
+  - Components: components.md
+  - Lifecycle and Events: lifecycle-and-events.md
+  - Input: input.md
+  - Physics and Collision: physics-and-collision.md
+  - Memory and Object Lifetime: memory-and-object-lifetime.md
+  - Assets and References: assets-and-references.md
+  - Gameplay Framework: gameplay-framework.md
+  - Blueprints and C++: blueprints-and-cpp.md
+  - UI with UMG: ui-with-umg.md
+  - Networking and Replication: networking-and-replication.md
+  - AI and Behaviour Trees: ai-and-behaviour-trees.md
+  - Profiling and Optimisation: profiling-and-optimisation.md
+  - Editor Tools: editor-tools.md
+  - Version Control: version-control.md
+  - Glossary: glossary.md
